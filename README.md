@@ -1,2 +1,2 @@
-# Course_Snatching_Assister
-抢课辅助软件
+# 抢课辅助软件
+一款帮助SMBU学生抢体育课的辅助软件
